@@ -8,5 +8,3 @@
 - I’m currently learning **Advanced ML frameworks, Quantum computing research**
 
 - How to reach me **ogunadetoheeb4@gmail.com**
-
-- Know about my experiences [https://docs.google.com/document/d/15WsGboV9h1youAluN9pMHZoX5qBhaJvMuHj5ENoTVsY/edit?usp=sharing](https://docs.google.com/document/d/15WsGboV9h1youAluN9pMHZoX5qBhaJvMuHj5ENoTVsY/edit?usp=sharing)
