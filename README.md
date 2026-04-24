@@ -1,4 +1,4 @@
-html<h1 align="center">Hi 👋, I'm Toheeb</h1>
+<h1 align="center">Hi 👋, I'm Toheeb</h1>
 <h3 align="center">ML Researcher & Competitive Programmer | CS Student @ University of Lagos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qeinstein&label=Profile%20views&color=0e75b6&style=flat" alt="qeinstein" /> </p>
