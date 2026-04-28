@@ -5,4 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qeinstein" alt="qeinstein" /></a> </p>
 
 
+![Fluxx's github stats](https://github-readme-stats.vercel.app/api?username=qeinstein)
+
+
 - How to reach me **ogunadetoheeb4@gmail.com**
